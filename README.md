@@ -24,7 +24,7 @@ You can also deploy this repo directly to Heroku by clicking this link. You will
 * [My 2018 Python Entry](https://github.com/tyrelh/battlesnake2018)
 
 ## Changelog
-* V0.1 - This is a Green Snake with Ski mask head and Weight tail. I have updated the JS dependencies that were falling behind.
+* V0.1 - This is a Green Snake named 'munchymike' with Ski mask head and Weight tail. I have updated the JS dependencies that were falling behind.
 * 
 ## TODO
 

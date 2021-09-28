@@ -1,0 +1,30 @@
+{
+  "name": "munchymike",
+  "description": "2021 Battlesnake AI written in NodeJS",
+  "version": "2.4.1",
+  "private": true,
+  "author": "Allan Jackson",
+  "repository": "https://github.com/AJAX6255/BattleSnakeFall2021",
+  "licenses": [
+    {
+      "type": "WTFPL",
+      "url": "http://www.wtfpl.net/txt/copying/"
+    }
+  ],
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cross-env": "^7.0.3",
+    "express": "^5.0.0-alpha.8",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.x"
+  },
+  "scripts": {
+    "start": "cross-env PORT=5000 nodemon app.js"
+  }
+}

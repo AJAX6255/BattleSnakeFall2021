@@ -1,0 +1,7 @@
+{
+  "name": "munchymike",
+  "description": "2021 Battlesnake AI written in NodeJS",
+  "repository": "https://github.com/AJAX6255/BattleSnakeFall2021",
+  
+  "keywords": ["NodeJS","battlesnake", "battlesnake.io", "ai"]
+}

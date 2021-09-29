@@ -1,6 +1,7 @@
 {
   "name": "munchymike",
   "description": "2021 Battlesnake AI written in NodeJS",
+  "apiversion": "1",
   "version": "2.4.1",
   "private": true,
   "author": "Allan Jackson",

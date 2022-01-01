@@ -13,7 +13,7 @@
     }
   ],
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.19.1",
     "cross-env": "^7.0.3",
     "express": "^5.0.0-alpha.8",
     "morgan": "^1.10.0"
